@@ -5,8 +5,6 @@ Teljes értékű **PHP + MySQL + Bootstrap** ügyfélszolgálati rendszer ticket
 
 <img width="1919" height="946" alt="Screenshot 2025-11-14 234218" src="https://github.com/user-attachments/assets/69546e42-8838-4404-bd04-09a23e23b481" />
 
-![Demo](screenshot.png)
-
 ## Funkciók
 - Új ticket nyitása
 - Státusz váltás: új → folyamatban → kész
